@@ -24,6 +24,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/workspace/C\#/Fiap.Web.AspNet/Fiap.Web.AspNet/Views/Representante/Cadastrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwcmVzZW50YW50ZVxDYWRhc3RyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/workspace/C\#/Fiap.Web.AspNet/Fiap.Web.AspNet/Views/Representante/Consultar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwcmVzZW50YW50ZVxDb25zdWx0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/workspace/C\#/Fiap.Web.AspNet/Fiap.Web.AspNet/Views/Representante/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwcmVzZW50YW50ZVxFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/workspace/C\#/Fiap.Web.AspNet/Fiap.Web.AspNet/Views/Representante/Help.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwcmVzZW50YW50ZVxIZWxwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
