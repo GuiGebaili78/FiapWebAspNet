@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "9veeFGejkIATaEypcXc36maanfajXsvQpePiqWIXaY/dZg3lbvEFzQilUELbemAuSkcboA6601HeK1mYLCEyRg==",
+  "dgSpecHash": "+jgqoreGvKSJY8x95GYKiiDz+5gz4EB+0QsmfIaD9HO5CJ+w09TK8cUkUij9movFeS1IcZFhKdCfg/1TLtGYjw==",
   "success": true,
   "projectFilePath": "C:\\workspace\\C#\\Fiap.Web.AspNet\\Fiap.Web.AspNet\\Fiap.Web.AspNet.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Micro\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\oracle.manageddataaccess.core\\3.21.110\\oracle.manageddataaccess.core.3.21.110.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.1\\system.diagnostics.performancecounter.6.0.1.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.directoryservices\\6.0.1\\system.directoryservices.6.0.1.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.directoryservices.protocols\\6.0.1\\system.directoryservices.protocols.6.0.1.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
